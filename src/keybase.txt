@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/camjc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://camjc.com
+  * I am camjc (https://keybase.io/camjc) on keybase.
+  * I have a public key with fingerprint C18C 9489 C7EA 91E1 F461  3B57 17BB 45BB 9E2E DCB7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012066d0f1c2206c924cd5e334943b0eb5e163e898fccc9f58cab2061bcecdcdd42a0a",
+            "fingerprint": "c18c9489c7ea91e1f4613b5717bb45bb9e2edcb7",
+            "host": "keybase.io",
+            "key_id": "17bb45bb9e2edcb7",
+            "kid": "01016025ff24b787b5565689e491862978cd00a38d2c36857293039b3a12ae40cc270a",
+            "uid": "75e8fddc5db4db49a5c15d8d3cbd3e19",
+            "username": "camjc"
+        },
+        "revoke": {
+            "sig_ids": [
+                "c817436eff2cecba1120dae95c4a84a5743732f051d3dbd27d37d1a6eb77fe4f0f"
+            ]
+        },
+        "service": {
+            "hostname": "camjc.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473064208,
+    "expire_in": 157680000,
+    "prev": "7abc2ad5bbb4519a674f2178795521d689c13ff86dc42adc2b686379faf0c68c",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMOnAnicbVJ9TJVVHL5gsMDciKkoiVsvRtOQvef9PheBbKDBaOQQAgVu7/l44Qrc
+e7338v3RH4S2SwlzyYAshJw6Qw0/YEFhVzFD0GgONHSsFSVC2Urb/OjrvCy3/ujs
+bOfr+T2/5zy/3/CSRZbQgIjBlMEP4m72B4z6fy6zvHZ5fVgNh5ykirPWcMV0YaEl
+hHq8tmI74awcDwReUQhvACywHYaChIlMRVGCkoh4imQKFJFqUDMwxtCQNawjBgQI
+U0wwIZKg8zoXyxl2RyF1u9x2h5fRYqBhKGkQq1SHgAJDUoCIZBWoCEkyQpAKlGCk
+ssAip8eMYOKQ7qFxdie7Ywfbgrz/wT/WzQOFF2TDECSkaiqSZUVWNEglCDRFgKqG
+Cc/rokYELCqarApQ5EWIRB0IOpV4jAV1QXfZAp0qU80gBMsESWxCXcZAJhoRMSIi
+BdAEeqjboZdS83d66Q7M1cVyblruLKamqR57IVPs4azbOawBVRIVyqQxj5AOmMVE
+p1DGkq5JusweVVEweBkQkSAiqERUCdAVilTVoJLBG1w+42bpyu14gdy06L+p47Cz
+lClyuZ1eJ3aWsOsir9dlNRV5q1wmrIIi278ENmR3EFYcFlBO3R6708FZAUNir91k
+BJIq8ook8FosRytddje12U2ErCoaz4aZhpabFukICzphxWAVAVBXVMkQALMeyrIA
+CPMeA9EwNIVg1hMEC0jRFFGFhm7wWNEwZ35pp8PJuAHTqRcyTuaaQ/eWuSlXd86f
+94QlINQSHBRodq0lNCTscS+vCwyztF0bgtPdYQPRMRvj+j7p7YTHZlLTF00Fte5J
+r1mzfih19AZalHM5crbgmfyyXUeHZ0f9Pd8mPKrseND4/jsNX9buOzMQmRn2QtMb
+689EXtqUMVCx15ddH3j4lbmSqb0Vuzffan65e/BaeIiwLOun6dw1nza+NZ40FxRx
+J/HHgyvv+6c87z19/mDkBa1+ot1v74K1A5e2NCY1w67B2Y1FF17vGbsR1VLX0371
+bPCp3cPf3+0N2pyR/lVu8jL3gxfjDk0lJnnDi54ahBtWJEhC79u/Rh/JzImtHg/Y
+cDr1/JE3bf75587ZJhoOLx480Wep++jklYa4vpr801WS5BstSY5c2ZS9PDq4Ztu4
+7VRU1lz0qjQ9JXKo8OGy6t9dncNX136c89ee/rCoybPepbEdY/77HVmp8d1WAwVv
+8TQ23w7JrVbxTNNk28OciwF3pj8890tWSmvQ1kkf3F+/4dmCz2lX7tb4iLZv9h1Q
+vu5R9x9Nbp8BMbtC51vevZ3WcGHFsdzkR6urj93etmRxb0XlF/NZz38X31wwkrN8
+7W+5tXtQvW/slu9W/0TLvU454vqquarMusQDN+nS6533XlqS8Nl2m6ceuLKf/Lsx
+6aJkHWlcUbzDffxK0g/rejnS4g3vzQuKivelHc7uOZ7cmrc6wxF1oi3q5N1NOyti
+Ryr/+PPQI5KUv9MRE+p7NeSgOzvhH5ZU03E=
+=+7BA
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/camjc
+
+==================================================================

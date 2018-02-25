@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Résumé"
+categories: about
+link: /assets/files/Cameron_Chamberlain_Resume.pdf
+noextralink: "true"
+---
+
+Senior Developer (Front–End)
+------------------------
+<!-- TODO: Rewrite to focus on leadership -->
+
+Offering proven web application development practices. Using formal and tacit knowledge to shape maintainable code and deliver great experiences. Promoting a collaborative environment, using design and programming together to benefit the user.
+
+<br/>
+
+Employment
+----------
+
+### [ahm] <span>April 2016–Present</span>
+
+Senior Developer
+
+### [Adslot] <span>Feb–April 2016</span>
+
+Senior Developer
+
+### [Adslot] <span>Dec 2015–Jan 2016</span>
+
+Lead Front–End Developer
+
+### [Adslot] <span>Jan 2014–Dec 2015</span>
+
+Front–End Developer
+
+### [Packt Publishing] <span>2014 Aug–Nov</span>
+
+Technical Reviewer for [Three.js Cookbook]
+
+### Cam J C <span>2009–2014</span>
+
+Freelance Web Developer/Designer
+
+### [Adslot] <span>2013 Sep–Dec</span>
+
+Freelance WordPress Developer
+
+### [University of Canberra] <span>2011–2013</span>
+
+Sessional Tutor
+
+### [Australian National University] <span>2010</span>
+
+Technical Officer
+
+### [Dick Smith Electronics] <span>2007–2011</span>
+
+Sales Assistant
+
+<br/>
+
+Education
+---------
+<!-- TODO: Maybe mention Trusted Advisor training from April 2017. -->
+
+### [Australian National University] <span>2011</span>
+
+-	Bachelor of Visual Arts Honours
+-	Achieved First&nbsp;Class Honours
+-	Awarded ANU Honours Scholarship
+
+### [Australian National University] <span>2008–2010</span>
+
+-	Bachelor of Visual Arts (Digital Media)
+-	Average grade of High Distinction
+
+### [Academy of Interactive Entertainment] <span>2007</span>
+
+-	Certificate IV in Animation for Games and Film
+
+<br/>
+
+Recognition
+----------
+
+### [Adslot] <span>November 2015</span>
+
+CEO's award: “Inaugural Scuti Star for Innovation”
+
+“Cam was a key contributor in rethinking our approach to the important campaign management interface including the briefing feature set. Cam was able to draw ideas and inspiration from other frameworks and apply them in new ways to solve the challenge of rebuilding the most complex interface in Adslot, while simplifying it's internal structure to make it far easier to reason.”
+
+### [Australian National University] <span>2011</span>
+
+ANU Honours Scholarship
+
+<br/>
+
+Skills
+------
+
+**Front–End** – [React], [elm], [AngularJS], [Stylus], [SASS], [SMACSS], HTML5, responsive CSS3, SVG, [jQuery], WebGL using [Three.js], [Bower], [Ember].
+
+**Full–Stack** – [CoffeeScript], JavaScript, [lodash], [Moment.js], [Jade], [API integration], [Gulp].
+
+**Back–End** – [Node.js], [Async.js].
+
+**Testing** – [Selenium WebDriver], [Protractor], [Karma], [Travis], [Jenkins].
+
+**Design** – colour theory, grid systems, typography, communication, [research], [animation], [drawing], [photography].
+
+[ahm]: https://ahm.com.au/ "ahm"
+[Adslot]: http://www.adslot.com/ "Adslot"
+[Packt Publishing]: https://www.packtpub.com/ "Packt Publishing"
+[Three.js Cookbook]: https://www.packtpub.com/web-development/threejs-cookbook "Three.js Cookbook"
+[University of Canberra]: http://www.canberra.edu.au/ "University of Canberra"
+[Australian National University]: http://www.anu.edu.au/ "Australian National University"
+[Dick Smith Electronics]: https://www.dicksmith.com.au/%E2%80%8E "Dick Smith Electronics"
+[Academy of Interactive Entertainment]: http://www.aie.edu.au/ "Academy of Interactive Entertainment"
+[AngularJS]: https://angularjs.org/ "HTML enhanced for web apps!"
+[Stylus]: https://learnboost.github.io/stylus/ "Expressive, dynamic, robust CSS"
+[SASS]: http://sass-lang.com/ "CSS with superpowers"
+[SMACSS]: https://smacss.com/ "Scalable and Modular Architecture for CSS"
+[jQuery]: http://jquery.com/ "jQuery"
+[Three.js]: http://threejs.org/ "Three.js"
+[Bower]: http://bower.io/ "A package manager for the web"
+[Ember]: http://emberjs.com/ "Ember.js"
+[elm]: http://elm-lang.org/ "elm"
+[React]: https://facebook.github.io/react/ "A JavaScript library for building user interfaces"
+[CoffeeScript]: http://coffeescript.org/ "A little language that compiles into JavaScript"
+[lodash]: https://lodash.com/ "A JavaScript utility library delivering consistency, modularity, performance, &amp; extras."
+[Moment.js]: http://momentjs.com/ "Parse, validate, manipulate, and display dates in JavaScript."
+[Jade]: http://jade-lang.com/ "Node Template Engine"
+[API integration]: https://developers.google.com/maps/documentation/javascript/ "Google Maps API"
+[Gulp]: http://gulpjs.com/ "The streaming build system"
+[Node.js]: https://nodejs.org/ "Node.js"
+[Async.js]: https://github.com/caolan/async "Async.js"
+[Selenium WebDriver]: http://docs.seleniumhq.org/ "Create robust, browser-based regression automation suites and tests"
+[Protractor]: https://angular.github.io/protractor/ "End to end testing for AngularJS"
+[Karma]: http://karma-runner.github.io/ "Karma test runner"
+[Travis]: https://travis-ci.org/ "Test and Deploy with Confidence"
+[Jenkins]: https://jenkins-ci.org/ "An extensible open source continuous integration server"
+[assert.js]: https://github.com/Jxck/assert "A port of the Node.js standard assertion library for the browser"
+[research]: /assets/files/Cameron_Chamberlain_Honours_Exegesis.pdf "Honours Exegesis"
+[animation]: http://vimeo.com/14439500 "Gorilla"
+[drawing]: http://lifedrawingstyle.com "LIFEdrawingSTYLE"
+[photography]: https://www.flickr.com/photos/phantom_cameron "phantom_cameron on Flickr"

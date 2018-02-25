@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "ACT Nails & Tools"
+tagline: "Selling and repairing hardware on-site."
+categories: website
+desktops:
+- ACTNails_desktop
+mobiles:
+- ACTNails_mobile_b
+- ACTNails_mobile_c
+technologies:
+- Custom Design
+- HTML5
+- CSS3
+- SASS & Compass w/ Susy
+- Amazon S3 & CloudFront
+- Illustrations
+link: http://actnails.com
+---
+
+The site is built from scratch using [SASS] and the [Compass framework][Compass] with [Susy] for the grid structure, compiling to CSS3. This site is tuned for speed and simplicity and uses responsive design and vector illustrations to optimize for any screen size. I incorporated the existing branding into the design, showing the logo and the iconic ACT&nbsp;Nails & Tools van so that new customers know what to look for on the streets.
+
+<!-- This site is designed to work like an extended business card, providing details on what the company can do for the target market, as well as contact information. The company has a local and personal service focus, so this approach gives the audience the answers they need and nothing extraneous.
+ -->
+[SASS]: http://sass-lang.com/ "SASS Preprocessor"
+[Compass]: http://compass-style.org/
+[Susy]: http://susy.oddbird.net/ "Susy – Responsive Grids for Compass"

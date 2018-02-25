@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Shiftr"
+tagline: "Webapp version of a shift swapping mobile application."
+categories: application
+desktops:
+- Shiftr_large.w1280_b
+mobiles:
+- Shiftr_small_a
+- Shiftr_small_b
+technologies:
+- Foursquare API
+- Google Maps API
+- HTML5
+- CSS3
+- LESS & Twitter Bootstrap
+- PHP
+- jQuery
+---
+
+I designed and coded the front-end of this shift swapping and sharing webapp. I also made sign-up and product pages for the Shiftr apps. These all use custom semantic HTML5 and are styled using [LESS] with [Twitter Bootstrap], compiling to CSS3. I wrote parts of the [jQuery] and PHP, including use of the [Foursquare] and [Google Maps] APIs to select business locations to create an easier signup experience.
+
+[LESS]: http://lesscss.org/ "LESS CSS Precompiler"
+[Twitter Bootstrap]: http://getbootstrap.com/ "Twitter Bootstrap LESS Framework"
+[jQuery]: http://jquery.com/
+[Foursquare]: https://developer.foursquare.com/ "Foursquare API"
+[Google Maps]: https://developers.google.com/maps/documentation/javascript/ "Google Maps API"

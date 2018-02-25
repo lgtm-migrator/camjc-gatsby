@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Ahm"
+tagline: "Health insurance made uncomplicated"
+categories: application
+technologies:
+- HTML
+- CSS
+- SASS
+- Stylus
+- JavaScript
+- Babel
+- React.js
+- React Router
+- Redux
+- Node.js
+- Moment.js
+- Lodash
+- SVG
+
+link: https://ahm.com.au
+---
+<!-- TODO: Images for desktop, mobile, sales & service.  -->
+
+
+<!-- TODO: Preamble and tidy up, with references to technologies etc.  -->
+
+#### Application health
+
+I watch the client-side logs, checking in daily as well as watching after significant releases to mitigate risk. I keep our logging application open and also receive emails for potentially negative logging events. I also stay across significant analytics events like browser support and alert appearances.
+When issues appear I triage and assign priorities accordingly, working with our BA. I proactively fix front-end issues and work with our other developers to catch issues before they emerge.
+I maintain our front-end email alerts, helped set up client-side logging, and assist the team by reviewing improvements to our logging abilities.
+Keeping sales and members running smoothly has great impact on our customers confidence and positive experience with the brand. Users that do not encounter defects are able to experience the complete value that we provide.
+
+
+#### CRO
+
+I have led the front-end changes for buy-form projects this year. The main examples are the transition to the white-background buy form late last year, which included usability changes to improve conversion and customer satisfaction. I have also led the code changes of an initiative to make the buy-form more mobile friendly, which included significant re-writes of the buy-form to use our new component library inputs, improving the feedback of unfilled or incorrectly filled fields, and using the correct native keyboards for mobile. These have resulted in a reduction in validation errors, improving user experience which drives conversion rate.
+I have also improved our processes for, and implemented or reviewed every marketing offer we have run in the last year.
+
+
+#### Providing feeback and training new staff
+
+We have had two new internal developer staff members in the last year. For each I have supported Dmitry in the onboarding process. This support is through pair-programming, helping to find suitable tasks, talking through approaches to tasks before starting, checking in throughout the day, code reviewing and advising on process.
+We also work with external agency resources, and I have worked with them directly to teach our processes and standards. I organise a pair-programming roster, encouraging collaboration and learning throughout the extended team.
+I have attended a trusted consultant workshop over two days this year, learning how to improve my communication with stakeholders and other colleagues. I found this course useful, and have ingrained its teachings into my practice. This helps me maintain stability and positive working relationships.
+I research best-practices and apply new knowledge in collaboration with the entire team though code-reviews and pair-programming, as well as in developer meetings and directly assisting with tasks.
+In these ways I help lead my own, and my colleagues’ growth and confidence within the team.
+
+#### Code quality
+OMS Project delivered on time, on budget, to business case scope Reduction in transactional call types per the OMS business case
+Code quality
+Linting.
+Dependencies upgrades. Cleanups / refactoring. Coverage increasing over time.
+Shared UI components
+Setup architecture for reusable shared UI components. Ensure no major technical debts created.
+Foster a culture of using this approach for BAU/daily routine.
+I have implemented new linting rules to enable quick feedback of best practices and in-house style standards. This helps our code base stay homogenous, making it easier for developers to understand code intent. It also highlights potentially problematic language use, requiring the developer to avoid these pitfalls. Since the feedback comes in-editor instead of during code review, it makes it quicker for us to develop, and quicker to code review.
+I have worked with our delivery manager to ensure that dependency upgrades don’t languish. I set up a re-occurring task to update those that are easy. During this task the developer doing it must create new tasks for any dependency upgrades that aren’t quick, and we can then prioritise those in our backlog for later sprints.
+I have fostered a culture of maintainability of our front-end code in concert with Dmitry’s expectations about our overall maintainability. Where appropriate we create extra cards for cleanup and refactor, but as a general policy try to leave our code better than when we found it. This stops us accumulating significant technical debt and ensuring that our codebase is at production quality.
+I have also driven a culture of high code coverage of unit tests. This provides benefits including stability, maintainability, modularity and simplicity. Through code review and discussion, I make sure my colleagues and I are mindful about what we are testing as opposed to blindly reaching the test metrics.
+These practices and tools manage the risk of the code we release, and improve our efficiency as a development team.
+
+#### Shared UI components
+I have set up, developed, and guided expansion of a reusable component library that is now used in production for both sales and service sites. This gives us great consistency across our sites, and sets us up to pull together pages quickly. It also ensures that our codebases share bugfixes and style changes for these components, avoiding duplication of effort. I have brought in React Storybook to give us a sandbox for developing these components. It also gives our designers a way to see what components are already built for them to use without further custom development work. These components reduce our delivery risk since they drive quick feature builds through modularity. They also reduce our defect risk by being battle-tested through reuse.

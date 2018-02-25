@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Adslot.com 2013"
+tagline: "Buy direct from premium publishers without all the back and forth"
+categories: website
+desktops:
+- Adslot_homepage_b
+- Adslot_publisher_overview_b
+- Adslot_about_b
+technologies:
+- HTML5
+- CSS3
+- Twitter Bootstrap
+- Wordpress
+- Custom functions
+---
+
+Working with Adslot's designers I implemented their redesign of Adslot.com.
+I wrote templates for [WordPress] and used [Advanced Custom Fields] to enable fully customised and easily editable layouts. I separated existing CSS into [SCSS] modules, removed un&shy;used styles and added in my own stylesheets, building on [Twitter Bootstrap].
+
+I provided input for some design decisions. One example is the behaviour of the video reveal on the homepage. After creating templates for layouts designed in-house I was given the autonomy to extrapolate from the established design language into templates for the [corporate] and [legacy pages] and elements like drop-down menus and the footer.
+
+[SCSS]: http://sass-lang.com/ "SASS Preprocessor"
+[Twitter Bootstrap]: http://getbootstrap.com/ "Twitter Bootstrap LESS Framework"
+[jQuery]: http://jquery.com/
+[WordPress]: http://wordpress.org/  "Wordpress.org"
+[Advanced Custom Fields]: http://www.advancedcustomfields.com/ "Advanced Custom Fields"
+[corporate]: http://adslot.com/about "Adslot.com Corporate Page"
+[legacy pages]: http://www.adslot.com/publisher/how-to-find-direct-advertisers/ "Adslot.com Legacy Page"
