@@ -1,0 +1,609 @@
+{
+  "name": "Cameron Chamberlain",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Senior Developer (Front–End)",
+    "brief": "Offering proven web application development practices. Using formal and tacit knowledge to shape maintainable code and deliver great experiences. Promoting a collaborative environment, using design and programming together to benefit the user.",
+    "image": "https://avatars1.githubusercontent.com/u/4197647"
+  },
+  "contact": {
+    "website": "http://camjc.com",
+    "phone": "0431993870",
+    "email": "hi@camjc.com",
+    "other": []
+  },
+  "location": {
+    "address": "Carlton",
+    "city": "Melbourne",
+    "region": "Victoria",
+    "code": "3053",
+    "country": "Australia"
+  },
+  "social": [
+    {
+      "label": "",
+      "network": "GitHub",
+      "user": "camjc",
+      "url": "https://github.com/camjc"
+    }
+  ],
+  "employment": {
+    "summary": "",
+    "history": [
+      {
+        "employer": "ahm",
+        "url": "http://ahm.com.au",
+        "position": "Senior Developer",
+        "summary": "",
+        "start": "2016-02",
+        "keywords": [
+          "Foo"
+        ],
+        "highlights": [
+          "bar"
+        ]
+      },
+      {
+        "employer": "Adslot",
+        "url": "http://adslot.com",
+        "position": "Senior Developer",
+        "summary": "",
+        "start": "2016-02",
+        "end": "2016-04",
+        "keywords": [
+          "Deliverables",
+          "Technical leadership",
+          "Identifying technical issues",
+          "Mentoring",
+          "Providing feedback on team performance"
+        ],
+        "highlights": [
+          "Delivering roadmap items.",
+          "Providing technical leadership and support to their development teams.",
+          "Identifying team-wide technical issues.",
+          "Mentoring and tracking progress of new hires.",
+          "Providing feedback on new hire performance at end of their probation period.",
+          "Providing feedback on team member performance at the end of each quarter."
+        ]
+      },
+      {
+        "employer": "Adslot",
+        "url": "http://adslot.com",
+        "position": "Lead Front–End Developer",
+        "summary": "",
+        "start": "2015-12",
+        "end": "2016-02",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Adslot",
+        "url": "http://adslot.com",
+        "position": "Front–End Developer",
+        "summary": "",
+        "start": "2014-01",
+        "end": "2015-12",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Packt Publishing",
+        "url": "https://packtpub.com",
+        "position": "Technical Reviewer",
+        "summary": "Worked on [Three.js Cookbook](https://www.packtpub.com/web-development/threejs-cookbook)",
+        "start": "2014-08",
+        "end": "2014-11",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Cam J C",
+        "url": "http://camjc.com",
+        "position": "Freelance Web Developer/Designer",
+        "summary": "",
+        "start": "2009-01",
+        "end": "2014-01",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Adslot",
+        "url": "https://adslot.com",
+        "position": "Freelance WordPress Developer",
+        "summary": "",
+        "start": "2013-09",
+        "end": "2013-12",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "University of Canberra",
+        "url": "http://www.canberra.edu.au",
+        "position": "Sessional Tutor",
+        "summary": "",
+        "start": "2011-01",
+        "end": "2013-12",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Australian National University",
+        "url": "http://www.anu.edu.au",
+        "position": "Technical Officer",
+        "summary": "",
+        "start": "2010-06",
+        "end": "2010-12",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "employer": "Dick Smith Electronics",
+        "url": "https://www.dicksmith.com.au",
+        "position": "Sales Assistant",
+        "summary": "",
+        "start": "2007-11",
+        "end": "2011-01",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Adslot Media and Adslot Publisher",
+      "category": "commercial",
+      "role": "contributor",
+      "url": "https://media.adslot.com/sites/1745",
+      "start": "",
+      "repo": "",
+      "description": "Campaigns by the A–Team.",
+      "summary": "At Adslot I have collaborated with designers, product managers, full-stack developers, and QA to create the best solutions for the people who use our products.",
+      "keywords": [
+        "HTML",
+        "Jade",
+        "CSS",
+        "Stylus",
+        "JavaScript",
+        "CoffeeScript",
+        "AngularJs",
+        "Node.js",
+        "Express.js",
+        "Moment.js",
+        "SVG"
+      ]
+    },
+    {
+      "title": "Sparky and Slicey",
+      "category": "commercial",
+      "role": "creator",
+      "url": "https://media.adslot.com/sites/1745",
+      "start": "",
+      "repo": "",
+      "description": "Sparkline and Pie chart components.",
+      "summary": "At Adslot we need to draw a lot of line and column graphs per page. This called for a performant solution, preferably without adding to the page load weight. After researching available graphing solutions I realised that we could use AngularJS (which was already loaded) to replace a lot of the manipulation that these large graphing libraries provided. Making our own graphing library also gave us full control over the look and interaction of the graph elements . I made a prototype of a simple line graph and performance tested 150 on a page with constantly randomizing data. It stood up over all browsers, even IE9 (our lowest target). This directive is open source. It made its debut at Adslot in the Q1 2014-15 launch of the new Campaign Management workflow across Adslot Media, Publisher and Partner. In May 2015 I created a React version of Slicey in a weekend. I did this to learn React using a real–world component.",
+      "keywords": [
+        "SVG",
+        "AngularJS",
+        "CoffeeScript",
+        "JavaScript",
+        "HTML",
+        "Jade",
+        "CSS",
+        "Stylus",
+        "Gulp"
+      ]
+    },
+    {
+      "title": "Adslot.com",
+      "category": "commercial",
+      "role": "contributor",
+      "url": "http://adslot.com",
+      "start": "2015",
+      "end": "2015-04-23",
+      "repo": "",
+      "description": "We bring buyers & sellers together to trade premium digital media at scale.",
+      "summary": "",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Twitter Bootstrap",
+        "Wordpress",
+        "Custom functions"
+      ]
+    },
+    {
+      "title": "Automated Guaranteed",
+      "category": "commercial",
+      "role": "co-creator",
+      "url": "http://adslot.com",
+      "start": "2015",
+      "end": "2015-04-23",
+      "repo": "",
+      "description": "An infographic to explain the automated guaranteed process.",
+      "summary": "For Adslot to succeed we need to explain the automated guaranteed process to advertisers and publishers.\n This infographic explains the benefits, and compares automated guaranteed to the competing semi-automated RFP and Deal ID processes.",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Gulp",
+        "CoffeeScript",
+        "Stylus",
+        "Jade",
+        "Bower",
+        "Yeoman"
+      ]
+    }
+  ],
+  "education": {
+    "summary": "",
+    "level": "degree",
+    "degree": "Bachelor of Visual Arts Honours",
+    "history": [
+      {
+        "institution": "Australian National University",
+        "title": "Bachelor of Visual Arts Honours",
+        "url": "http://www.anu.edu.au",
+        "start": "2011-01",
+        "end": "2011-12",
+        "grade": "First Class",
+        "summary": "Achieved First&nbsp;Class Honours",
+        "curriculum": [
+          "Research–Based Honours with Exegesis"
+        ]
+      },
+      {
+        "institution": "Australian National University",
+        "title": "Bachelor of Visual Arts (Digital Media)",
+        "url": "http://www.anu.edu.au",
+        "start": "2008-01",
+        "end": "2010-12",
+        "grade": "HD Average Grade",
+        "summary": "",
+        "curriculum": [
+          "Animation",
+          "Sound Art",
+          "Video",
+          "Programmatic Art",
+          "Art History",
+          "Contemporary Asian Art",
+          "Cyberstudies",
+          "Modern Asian Art",
+          "Urban something"
+        ]
+      },
+      {
+        "institution": "Academy of Interactive Entertainment",
+        "title": "Certificate IV in Animation for Games and Film",
+        "url": "http://www.aie.edu.au",
+        "start": "2007-01",
+        "end": "2007-12",
+        "grade": "",
+        "summary": "",
+        "curriculum": [
+          "Animation",
+          "Camera",
+          "Compositing",
+          "Lighting",
+          "Modelling",
+          "Rendering",
+          "Rigging",
+          "Texturing"
+        ]
+      }
+    ]
+  },
+  "service": {
+    "summary": "",
+    "history": [
+      {
+        "category": "volunteer",
+        "position": "Web Developer",
+        "organization": "Donor Families Australia",
+        "url": "http://donorfamiliesaustralia.com",
+        "start": "2013-08",
+        "summary": "This site is built on [Wordpress](http://wordpress.com/) and is a complete redesign and restructure. I reorganised the entire site structure to be easier to use. I added custom [Wufoo](http://wufoo.com/) forms to enable newsletter distribution and easily allow the public to contact the organisation. I then made a completely new [CSS3 stylesheet](http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fdonorfamiliesaustralia.com%2F%3Fcustom-css%3D1%26csblog%3D3fcYG%26cscache%3D6%26csrev%3D171) for the site, creating a professional yet inviting look while complimenting the organisation's emerging colours and typography.",
+        "highlights": []
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Front–End",
+        "level": "Advanced",
+        "skills": [
+          "AngularJS",
+          "Bower",
+          "CSS3",
+          "Ember",
+          "HTML5",
+          "Jade",
+          "jQuery",
+          "React",
+          "Responsive",
+          "SASS",
+          "SMACSS",
+          "Stylus",
+          "SVG",
+          "Three.js"
+        ]
+      },
+      {
+        "name": "Full–Stack",
+        "level": "Advanced",
+        "skills": [
+          "API integration",
+          "Babel.js",
+          "CoffeeScript",
+          "Gulp",
+          "JavaScript",
+          "lodash",
+          "Moment.js",
+          "Webpack"
+        ]
+      },
+      {
+        "name": "Back–End",
+        "level": "Intermediate",
+        "skills": [
+          "Async.js",
+          "Node.js"
+        ]
+      },
+      {
+        "name": "Testing",
+        "level": "Intermediate",
+        "skills": [
+          "Chai",
+          "Jenkins",
+          "Karma",
+          "Protractor",
+          "Selenium WebDriver",
+          "Travis"
+        ]
+      },
+      {
+        "name": "Design",
+        "level": "Intermediate",
+        "skills": [
+          "Animation",
+          "Colour theory",
+          "Communication",
+          "Drawing",
+          "Grid systems",
+          "Photography",
+          "Research",
+          "Typography"
+        ]
+      }
+    ],
+    "list": []
+  },
+  "samples": [
+    {
+      "title": "Slicey",
+      "summary": "Pie chart component written in React.",
+      "url": "https://github.com/Adslot/alexandria/blob/master/src/components/alexandria/SliceyComponent.js",
+      "date": "2015-10-22",
+      "keywords": [
+        "React",
+        "Donut",
+        "Chart",
+        "JSX",
+        "Stateless"
+      ]
+    },
+    {
+      "title": "CSS–OFF",
+      "summary": "Based on a complicated static design.",
+      "url": "http://codepen.io/camjc/pen/5a86ab1a2ec5d687a9de46bff08092fa?editors=1100",
+      "date": "2013-09",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Jade",
+        "SCSS",
+        "Animation"
+      ]
+    }
+  ],
+  "writing": [
+    {
+      "title": "Three.js Cookbook",
+      "flavor": "book",
+      "date": "2015-01",
+      "publisher": {
+        "name": "Packt Publishing",
+        "url": "https://www.packtpub.com"
+      },
+      "url": "https://www.packtpub.com/web-development/threejs-cookbook",
+      "author": [
+        "Jos Dirksen"
+      ],
+      "summary": "I was a Technical Reviewer on this book about the 3D graphics library Three.js."
+    }
+  ],
+  "reading": [
+    {
+      "title": "24 Ways",
+      "flavor": "website",
+      "date": "2010",
+      "url": "https://24ways.org",
+      "summary": ""
+    },
+    {
+      "title": "A List Apart",
+      "flavor": "website",
+      "date": "2012",
+      "url": "http://alistapart.com",
+      "summary": ""
+    },
+    {
+      "title": "CSS–Tricks",
+      "flavor": "website",
+      "date": "2010",
+      "url": "https://css-tricks.com",
+      "summary": ""
+    },
+    {
+      "title": "Echo JS",
+      "flavor": "website",
+      "date": "2014",
+      "url": "http://www.echojs.com/",
+      "summary": ""
+    },
+    {
+      "title": "Smashing Magazine",
+      "flavor": "website",
+      "date": "2010",
+      "url": "https://www.smashingmagazine.com/",
+      "summary": ""
+    }
+  ],
+  "recognition": [
+    {
+      "category": "CEO's award",
+      "from": "Adslot",
+      "title": "Inaugural Scuti Star for Innovation",
+      "url": "",
+      "date": "2015-11",
+      "summary": "“Cam was a key contributor in rethinking our approach to the important campaign management interface including the briefing feature set. Cam was able to draw ideas and inspiration from other frameworks and apply them in new ways to solve the challenge of rebuilding the most complex interface in Adslot, while simplifying it's internal structure to make it far easier to reason.” – Ian Lowe, CEO of Adslot"
+    },
+    {
+      "category": "scholarship",
+      "from": "Australian National University",
+      "title": "ANU Honours Scholarship",
+      "url": "",
+      "date": "2011-01",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Ryan Cumming",
+      "category": "professional",
+      "summary": "Contact information available on request.",
+      "role": "Alpha Developer @ Adslot.",
+      "private": true,
+      "contact": []
+    },
+    {
+      "name": "Rob Munro",
+      "category": "professional",
+      "role": "Former Front–End Team Lead @ Adslot.",
+      "private": true,
+      "summary": "Contact information available on request.",
+      "contact": []
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ryan Cumming",
+      "category": "technical",
+      "quote": "Cam is a ninja.",
+      "private": false
+    },
+    {
+      "name": "Glenn Burdon",
+      "category": "technical",
+      "quote": "Cam knows more about design than most designers that I know.",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    },
+    {
+      "language": "French",
+      "level": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Latin Dance",
+      "date": "2009",
+      "summary": "Bachata and Salsa Dancer, performed at interstate festivals.",
+      "keywords": [
+        "Bachata",
+        "Salsa",
+        "Dance",
+        "Exercise",
+        "Latin Dance",
+        "Latin",
+        "Social",
+        "Sydney Bachata Festival",
+        "Sydney Latin Dance Festival"
+      ]
+    },
+    {
+      "name": "Life Drawing",
+      "date": "2008-02",
+      "summary": "Exhibited Life Drawing Artist.",
+      "keywords": [
+        "Bachata",
+        "Salsa",
+        "Dance",
+        "Exercise",
+        "Latin Dance",
+        "Latin",
+        "Social"
+      ]
+    },
+    {
+      "name": "Reading",
+      "date": "1995",
+      "summary": "Read 50 books during 2015.",
+      "keywords": [
+        "Reading",
+        "Books",
+        "Classics",
+        "Challenge",
+        "Arthur C Clarke",
+        "JRR Tolkien",
+        "Jules Verne",
+        "Kurt Vonnegut",
+        "Matthew Reilly"
+      ]
+    },
+    {
+      "name": "French Language Study",
+      "date": "2015",
+      "summary": "Completed Duolingo, working through Babbel.",
+      "keywords": [
+        "Babbel",
+        "Duolingo",
+        "Français",
+        "French",
+        "Language"
+      ]
+    }
+  ],
+  "extracurricular": [
+    {
+      "title": "UX Australia Redux",
+      "activity": "Conference",
+      "location": "Melbourne, Australia",
+      "start": "2014-10-29",
+      "end": "2014-10-29"
+    },
+    {
+      "title": "Glen Keane (Disney) Lecture",
+      "activity": "Lecture",
+      "location": "ACMI, Melbourne, Australia",
+      "start": "2010-11-19",
+      "end": "2010-11-19"
+    },
+    {
+      "title": "Simon Allen (Pixar) Workshop",
+      "activity": "Workshop",
+      "location": "AIE, Canberra, Australia",
+      "start": "2008-11-11",
+      "end": "2008-11-12"
+    }
+  ]
+}
