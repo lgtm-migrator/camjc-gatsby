@@ -5,12 +5,14 @@ import _ from 'lodash'
 const IndexPage = ({pathContext: data}) =>{
   return <div>
     <h1>Résumé</h1>
-    <h2>{data.info.label}</h2>
-    <p>{data.info.brief}</p>
+    <h2>{_.get(data, 'info.label')}</h2>
+    <p>{_.get(data, 'info.brief')}</p>
 
     <section>
       <h2>Employment</h2>
-      {_(data.employment.history)
+      {_(data)
+        .chain()
+        .get('employment.history')
         .groupBy('employer')
         .map((employerData, employer) => {
           return <div key={employer}>
